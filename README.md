@@ -28,5 +28,37 @@ The analysis of the election show:
     - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
 ## Challenge Overview
+After reviewing the election audit material submitted above, the Colorado Board of Elections has requested the following additional information:
 
-## Challenge Summary 
+- The voter turnout for each county
+- The percentage of votes from each county out of the total count
+- The county with the highest turnout
+
+## Resources
+- Data Source: election_results.csv
+- Software: Python 3.7.7, Visual Studio Code, 1.49.3
+
+## Challenge Summary
+The expanded analysis yielded the following results:
+- There were 369,711 votes cast in the election.
+
+- The breakdown of the votes by county are as follows:
+    - Jefferson: 10.5% of total votes | vote count = 38,855
+    - Denver: 82.8% of total votes | vote count = 306,055
+    - Arapahoe: 6.7% of total votes | vote count = 24,801
+    
+- The Denver county had the largest voter turnout.
+
+Suggested further applications of election analysis script:
+Regarding the possible uses of this election script, I would suggest:
+
+1. The script might be modified to report the percentage and count of each candidates votes for each of the counties analyzed in this audit.
+2. The script might be modified to report on the ballots for each county in order to report the voter ballot ids used in each county to look for possibility of replicated or missing ballots by building a list and checking for missing ballots or replications of ballot ids.
+
+## Resources
+
+1. Module 3 Challenge. (n.d.). Retrieved October 03, 2020, 
+from https://courses.bootcampspot.com/courses/453/assignments/5589
+
+2. Find Your&nbsp;. (n.d.). Retrieved October 04, 2020, 
+from https://www.citationmachine.net/apa/cite-a-website
