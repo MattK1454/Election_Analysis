@@ -49,6 +49,10 @@ The expanded analysis yielded the following results:
     
 - The Denver county had the largest voter turnout.
 
+The following is an image representation of the results.
+
+![Election Results]()
+
 Suggested further applications of election analysis script:
 Regarding the possible uses of this election script, I would suggest:
 
