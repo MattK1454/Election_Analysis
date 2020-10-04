@@ -54,7 +54,7 @@ The following is an image representation of the results.
 ![Election Results](https://github.com/MattK1454/Election_Analysis/blob/master/Resources/Election_results.png)
 
 Suggested further applications of election analysis script:
-Regarding the possible uses of this election script, I would suggest:
+Regarding the possible uses of this election script:
 
 1. The script might be modified to report the percentage and count of each candidates votes for each of the counties analyzed in this audit.
 2. The script might be modified to report on the ballots for each county in order to report the voter ballot ids used in each county to look for possibility of replicated or missing ballots by building a list and checking for missing ballots or replications of ballot ids.
