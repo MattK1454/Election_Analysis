@@ -51,7 +51,7 @@ The expanded analysis yielded the following results:
 
 The following is an image representation of the results.
 
-![Election Results]()
+![Election Results](https://github.com/MattK1454/Election_Analysis/blob/master/Resources/Election_results.png)
 
 Suggested further applications of election analysis script:
 Regarding the possible uses of this election script, I would suggest:
